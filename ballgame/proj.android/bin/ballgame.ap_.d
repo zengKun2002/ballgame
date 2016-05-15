@@ -1,0 +1,32 @@
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/bin/ballgame.ap_ \
+ : /Users/Damon/Desktop/ballgame/ballgame/proj.android/res/drawable-hdpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/res/drawable-ldpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/res/drawable-mdpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/res/values/strings.xml \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/bin/res/drawable-hdpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/bin/res/drawable-ldpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/bin/res/drawable-mdpi/icon.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/ball.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/black.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/blue.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/CloseNormal.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/CloseSelected.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/fonts \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/gameBg.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/HelloWorld.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/left.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/pause.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/purple.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/red.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/res \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/right.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/road.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/start.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/startBg.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/startBtn.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/white.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/yellow.png \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/fonts/arial.ttf \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/fonts/DFPKanTingLiuW9.ttf \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/assets/fonts/Marker Felt.ttf \
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/bin/AndroidManifest.xml \

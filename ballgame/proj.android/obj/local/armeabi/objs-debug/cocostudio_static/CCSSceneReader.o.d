@@ -1,0 +1,1481 @@
+obj/local/armeabi/objs-debug/cocostudio_static/CCSSceneReader.o: \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/CCSSceneReader.cpp \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoStudio.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionFrame.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCGeometry.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/math.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/cdefs.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/api-level.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/stdint.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/_types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/_types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/posix_types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/stddef.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/compiler.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/posix_types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/kernel.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/limits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/limits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/limits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/internal_types.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/limits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/syslimits.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/page.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccConfig.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/log.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccMacros.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConsole.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/select.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/time.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/time.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/signal.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/string.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/malloc.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/signal.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm-generic/signal.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/sigcontext.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/siginfo.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRef.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCStdC.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/stdlib.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/alloca.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/strings.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/memory.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccRandom.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/random \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMath.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMathBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInterval.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAction.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCCommon.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCTouch.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventTouch.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEvent.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimation.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCValue.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCVector.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrame.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProtocols.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccTypes.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCGL.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponentContainer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCMap.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponent.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAutoPolygon.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCImage.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTrianglesCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramState.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionFrameEasing.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionManagerEx.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionObject.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/document.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/reader.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/rapidjson.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cstring \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/inttypes.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/allocators.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/encodings.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/meta.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/../rapidjson.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/stack.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/strtod.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/ieee754.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/biginteger.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/diyfp.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/pow10.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/error/error.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/error/../rapidjson.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/strfunc.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/iterator \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInstant.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmature.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDefine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBone.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDatas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTweenFunction.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTween.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCProcessBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDecorativeDisplay.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayFactory.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCColliderDetector.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayManager.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBatchNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureAnimation.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSpriteFrameCacheHelper.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDataManager.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSkin.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSprite.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCCustomCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCQuadCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDataReaderHelper.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTransformHelp.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCUtilMath.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ObjectFactory.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoLoader.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComAttribute.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComAudio.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComController.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCInputDelegate.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListener.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComRender.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSGUIReader.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayout.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIWidget.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProtectedNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayoutParameter.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/GUIExport.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/GUIDefine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGroupCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/WidgetReader/WidgetReaderProtocol.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./cocos2d.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccConfig.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAsyncTaskPool.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDirector.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCScene.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCGLView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScheduler.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/uthash.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/future \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAutoreleasePool.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConfiguration.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimate3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimation3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimationCurve.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimationCurve.inl \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCBundle3DData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConsole.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDirector.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDelegate.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDispatcher.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDelegate.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCMap.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCNS.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProfiling.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProperties.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRef.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRefPtr.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScheduler.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCUserDefault.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCValue.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCVector.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ZipUtils.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCFileUtils-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCFileUtils.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/jni.h \
+ /Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/asset_manager.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/base64.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccMacros.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccTypes.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccUTF8.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/jni/JniHelper.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccUtils.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventAcceleration.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventCustom.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventDispatcher.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventFocus.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerAcceleration.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerCustom.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerFocus.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerKeyboard.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerMouse.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventMouse.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerTouch.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventMouse.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventTouch.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventType.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCGeometry.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCVertex.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/MathUtil.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMathBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAction.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionCamera.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionCatmullRom.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionEase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInstant.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInterval.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionManager.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionPageTurn3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionProgressTimer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionTiledGrid.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionTween.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTweenFunction.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCClippingNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCClippingRectangleNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawingPrimitives.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFontFNT.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFont.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabel.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFontAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelBMFont.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabel.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelTTF.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLayer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenu.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenuItem.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLayer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenuItem.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMotionStreak.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNodeGrid.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleBatchNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCBatchCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleExamples.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystemQuad.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystem.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystem.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystemQuad.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProgressTimer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProtectedNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCRenderTexture.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCScene.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransition.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransitionPageTurn.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransition.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransitionProgress.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCamera.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCFrustum.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCOBB.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCPlane.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCFrameBuffer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCameraBackgroundBrush.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCGrabber.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCGrid.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLight.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProtocols.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCCustomCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgram.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramState.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGroupCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMaterial.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderState.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTechnique.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPass.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPass.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitive.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitiveCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitive.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCQuadCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommandPool.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderState.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgram.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTechnique.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureCube.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTrianglesCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexAttribBinding.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexBuffer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCFrameBuffer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/ccGLStateCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/ccShaders.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsBody.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsShape.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsContact.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerCustom.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventCustom.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsJoint.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsShape.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsWorld.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsBody.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCCommon.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCDevice.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCFileUtils.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCImage.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCSAXParser.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCThread.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCApplication-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCApplicationProtocol.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAutoreleasePool.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGLViewImpl-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCEnhanceAPI-android.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimation.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimationCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSprite.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAutoPolygon.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteBatchNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrame.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrameCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTextFieldTTF.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParallaxNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXLayer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteBatchNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXXMLParser.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCSAXParser.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccCArray.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXTiledMap.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXXMLParser.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTileMapAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFastTMXLayer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitiveCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFastTMXTiledMap.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponent.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponentContainer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimate3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimation3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAttachNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCBillBoard.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCFrustum.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMesh.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMeshCommand.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshSkin.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMotionStreak3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshVertexIndexData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexBuffer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCOBB.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCPlane.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCRay.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkeleton3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkybox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSprite3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkeleton3D.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshVertexIndexData.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSprite3DMaterial.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMaterial.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCTerrain.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCamera.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCRay.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventDispatcher.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCArray.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDataVisitor.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCBool.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDictionary.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCArray.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCString.h \
+ /Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDouble.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCFloat.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCInteger.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCNotificationCenter.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCSet.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCString.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDeprecated.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSSceneReader.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerBase.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerObj.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoStudio.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerMng.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimelineCache.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimelineMacro.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCFrame.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimeLine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCFrame.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimeline.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimeLine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimelineNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimeline.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCBoneNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCSkinNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCSkeletonNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCBoneNode.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CSLoader.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/CocosGUI.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIButton.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UICheckBox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIAbstractCheckButton.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRadioButton.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIImageView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIText.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextAtlas.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILoadingBar.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIScrollView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIListView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UISlider.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextField.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTextFieldTTF.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextBMFont.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIPageView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIHelper.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRichText.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIHBox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIVBox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRelativeBox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIVideoPlayer.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIWebView.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIDeprecated.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIScale9Sprite.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIEditBox/UIEditBox.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayoutComponent.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./editor-support/cocostudio/CocosStudioExtension.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./audio/include/SimpleAudioEngine.h \
+ /Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./audio/include/Export.h
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoStudio.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionFrame.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCGeometry.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/math.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/cdefs.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/api-level.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/stdint.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/_types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/_types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/posix_types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/stddef.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/compiler.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/posix_types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/kernel.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/limits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/limits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/limits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/internal_types.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/machine/limits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/syslimits.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/page.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccConfig.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/log.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccMacros.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConsole.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/select.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/sys/time.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/linux/time.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/signal.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/string.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/malloc.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/signal.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm-generic/signal.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/sigcontext.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm/siginfo.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRef.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCStdC.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/stdlib.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/alloca.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/strings.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/memory.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccRandom.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/random:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMath.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMathBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInterval.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAction.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCCommon.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCTouch.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventTouch.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEvent.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimation.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCValue.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCVector.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrame.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProtocols.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccTypes.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCGL.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponentContainer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCMap.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponent.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAutoPolygon.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCImage.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTrianglesCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramState.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionFrameEasing.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionManagerEx.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionObject.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCActionNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/document.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/reader.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/rapidjson.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cstring:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/inttypes.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/allocators.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/encodings.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/meta.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/../rapidjson.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/stack.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/strtod.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/ieee754.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/biginteger.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/diyfp.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/pow10.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/error/error.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/error/../rapidjson.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/external/flatbuffers/../json/internal/strfunc.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/iterator:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInstant.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmature.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDefine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBone.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDatas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTweenFunction.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTween.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCProcessBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDecorativeDisplay.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayFactory.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCColliderDetector.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayManager.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBatchNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureAnimation.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSpriteFrameCacheHelper.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDataManager.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSkin.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSprite.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCCustomCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCQuadCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDataReaderHelper.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTransformHelp.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCUtilMath.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ObjectFactory.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoLoader.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComAttribute.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComAudio.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComController.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCInputDelegate.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListener.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCComRender.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSGUIReader.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayout.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIWidget.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProtectedNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayoutParameter.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/GUIExport.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/GUIDefine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGroupCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/WidgetReader/WidgetReaderProtocol.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./cocos2d.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccConfig.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAsyncTaskPool.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDirector.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCScene.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCGLView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScheduler.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/uthash.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/future:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAutoreleasePool.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConfiguration.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimate3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimation3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimationCurve.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimationCurve.inl:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCBundle3DData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCConsole.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDirector.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDelegate.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDispatcher.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCIMEDelegate.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCMap.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCNS.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProfiling.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProperties.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRef.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCRefPtr.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScheduler.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCUserDefault.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCValue.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCVector.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ZipUtils.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCFileUtils-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCFileUtils.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/jni.h:
+
+/Users/Damon/eclipse-adt/ndk/platforms/android-17/arch-arm/usr/include/android/asset_manager.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/base64.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccMacros.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccTypes.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccUTF8.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/jni/JniHelper.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccUtils.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventAcceleration.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventCustom.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventDispatcher.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventFocus.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventKeyboard.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerAcceleration.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerCustom.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerFocus.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerKeyboard.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerMouse.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventMouse.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerTouch.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventMouse.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventTouch.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventType.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCAffineTransform.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCGeometry.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCVertex.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Mat4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/MathUtil.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/CCMathBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Quaternion.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec2.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec3.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./math/Vec4.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAction.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionCamera.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionCatmullRom.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionEase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInstant.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionInterval.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionManager.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionPageTurn3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionGrid3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionProgressTimer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionTiledGrid.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCActionTween.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTweenFunction.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCClippingNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCClippingRectangleNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCDrawingPrimitives.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFontFNT.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFont.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabel.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFontAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelBMFont.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabel.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLabelTTF.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLayer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenu.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenuItem.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLayer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMenuItem.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCMotionStreak.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNodeGrid.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleBatchNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCBatchCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleExamples.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystemQuad.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystem.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystem.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParticleSystemQuad.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProgressTimer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCProtectedNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCRenderTexture.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCScene.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransition.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransitionPageTurn.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransition.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTransitionProgress.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCamera.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCFrustum.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCOBB.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCPlane.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCFrameBuffer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCameraBackgroundBrush.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCGrabber.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCGrid.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCLight.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCProtocols.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCCustomCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgram.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgramState.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGroupCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMaterial.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderState.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTechnique.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPass.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPass.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitive.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitiveCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitive.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCQuadCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderCommandPool.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderState.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCGLProgram.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTechnique.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTexture2D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureCube.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTrianglesCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexAttribBinding.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexBuffer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCFrameBuffer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/ccGLStateCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/ccShaders.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsBody.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsShape.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsContact.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventListenerCustom.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventCustom.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsJoint.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsShape.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsWorld.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./physics/CCPhysicsBody.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCCommon.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCDevice.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCFileUtils.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCImage.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformConfig.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCSAXParser.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCThread.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCApplication-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCApplicationProtocol.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCAutoreleasePool.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGLViewImpl-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCGL-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCStdC-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/android/CCEnhanceAPI-android.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCScriptSupport.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimation.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAnimationCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSprite.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAutoPolygon.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteBatchNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrame.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteFrameCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTextFieldTTF.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCTextureAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCParallaxNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXLayer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCSpriteBatchNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXXMLParser.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./platform/CCSAXParser.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/ccCArray.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXTiledMap.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXXMLParser.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTileMapAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCAtlasNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFastTMXLayer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCPrimitiveCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCFastTMXTiledMap.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTMXObjectGroup.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponent.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCComponentContainer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAABB.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimate3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAnimation3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCAttachNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCBillBoard.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCFrustum.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMesh.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMeshCommand.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshSkin.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMotionStreak3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshVertexIndexData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCVertexIndexBuffer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCOBB.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCPlane.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCRay.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkeleton3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkybox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSprite3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSkeleton3D.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCMeshVertexIndexData.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCSprite3DMaterial.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCMaterial.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCTerrain.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCCamera.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./3d/CCRay.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCEventDispatcher.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCArray.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./base/CCDataVisitor.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCBool.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDictionary.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCArray.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCString.h:
+
+/Users/Damon/eclipse-adt/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDouble.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCFloat.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCInteger.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCNotificationCenter.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCSet.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCString.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./deprecated/CCDeprecated.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSSceneReader.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerBase.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerObj.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoStudio.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/TriggerMng.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimelineCache.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimelineMacro.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCFrame.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimeLine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCFrame.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimeline.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCTimeLine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimelineNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCActionTimeline.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCBoneNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCSkinNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCSkeletonNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./renderer/CCRenderer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CCBoneNode.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/ActionTimeline/CSLoader.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/CocosGUI.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIButton.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UICheckBox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIAbstractCheckButton.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRadioButton.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIImageView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIText.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextAtlas.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILoadingBar.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIScrollView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIListView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UISlider.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextField.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./2d/CCTextFieldTTF.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UITextBMFont.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIPageView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIHelper.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRichText.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIHBox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIVBox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIRelativeBox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIVideoPlayer.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIWebView.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIDeprecated.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIScale9Sprite.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UIEditBox/UIEditBox.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./ui/UILayoutComponent.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./editor-support/cocostudio/CocosStudioExtension.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./audio/include/SimpleAudioEngine.h:
+
+/Users/Damon/Desktop/ballgame/ballgame/proj.android/../cocos2d/cocos/./audio/include/Export.h:
